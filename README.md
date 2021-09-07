@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manavsouls
 - 👀 I’m interested in Gaming, digital art and web development
-- 🌱 I’m currently learning: front end web development and looking for internship regarding to web development
+- 🌱 I’m currently: Completed  my front end web development course and looking for internship regarding to web development
 - 📫 you can reach me @manav.beefy(instagram) and m.sharma28th@gmail.com 
 - 
 
